@@ -1,5 +1,5 @@
 # Codec-Technologies-Artificial-Intelligence-Internship
 
-1. TASK : Chatbot for Customer Service
+TASK 1 : Chatbot for Customer Service
 
-2. TASK : Speech-to-Text Transcription
+TASK 2 : Speech-to-Text Transcription
