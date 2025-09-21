@@ -1,2 +1,2 @@
-SpeechRecognition
-PyAudio
+nltk
+scikit-learn
